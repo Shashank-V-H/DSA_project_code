@@ -15,7 +15,7 @@ This program uses single linked list to store the players statistics, this is im
 - Linked Lists
 
 ## Usage
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Sha-V-H/DSA_project_code.git`
 2. Navigate to the directory: `cd DSA_project_code`
 3. Compile the program: `gcc dsa_project.c`
 4. Run the program: `./a.out`
