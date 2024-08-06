@@ -25,4 +25,3 @@ This program uses single linked list to store the players statistics, this is im
 - Adding more interactive games to the collection.
 - Improving user interface and experience.
 
-- tejas
