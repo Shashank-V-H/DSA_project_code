@@ -12,7 +12,7 @@ This program uses single linked list to store the players statistics, this is im
 - C Programming Language
 - Random number generation
 - Basic input/output handling
-- Linked Lists
+- Linked List
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/Sha-V-H/DSA_project_code.git`
